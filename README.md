@@ -90,7 +90,7 @@
 - **High Scalability blog** - Real-world architecture case studies
 - **AWS/GCP/Azure Well-Architected Frameworks** - Cloud design best practices
 - **Company engineering blogs** (Netflix, Uber, Airbnb, Dropbox, LinkedIn, Facebook)
-- **System Design Roadmap ([roadmap.sh](https://roadmap.sh/system-design))
+- **System Design Roadmap** ([roadmap.sh](https://roadmap.sh/system-design))
 
 ### Hands-On Practice
 - Design and implement distributed systems projects
